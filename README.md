@@ -26,4 +26,7 @@ Node.js: Backend development (if applicable).
 Express.js: Web framework for Node.js (if applicable).
 MongoDB: Database to store user and dog profiles (if applicable).
 
+![Screenshot 2024-08-16 111116](https://github.com/user-attachments/assets/209ee753-c212-462d-bd3c-e00ae5e116cd)
+![Screenshot 2024-08-16 111128](https://github.com/user-attachments/assets/a656e23b-b33e-4d90-bbe4-82350b7cea45)
+
 
